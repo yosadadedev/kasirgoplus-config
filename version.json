@@ -1,0 +1,24 @@
+{
+  "android": {
+    "minBuild": 1,
+    "latestBuild": 1,
+    "force": false,
+    "message": "Update KasirGo v2.2.6 tersedia 🚀\n\n1. Perbaikan stabilitas stok: mengurangi kasus stok berubah-ubah saat penggunaan harian.\n\n⚠️ Pastikan data sudah dibackup atau disinkronkan sebelum melakukan update. Setelah update selesai, Jika ditemukan data yang hilang atau bermasalah, segera hubungi admin melalui WhatsApp di +62859106610011.",
+    "features": {
+      "ads": {
+        "enabled": false
+      }
+    },
+    "promotions": {
+      "enabled": true,
+      "pos": {
+        "modal": {
+          "enabled": false,
+          "imageUrl": "",
+          "linkUrl": "",
+          "dismissCooldownDays": 7
+        }
+      }
+    }
+  }
+}
