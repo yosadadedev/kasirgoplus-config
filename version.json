@@ -7,6 +7,13 @@
     "features": {
       "ads": {
         "enabled": false
+      },
+      "feedbackProgram": {
+        "enabled": true,
+        "waAdmin": "6285111322238",
+        "title": "Program Feedback",
+        "subtitle": "Bonus 1 bulan Pro untuk early users",
+        "description": "Dukung KasirGo+ dengan review terbaik di Google Play dan tulis feedback yang membantu. Kirim screenshot review + Email atau ID langganan ke WhatsApp admin untuk aktivasi bonus."
       }
     },
     "promotions": {
