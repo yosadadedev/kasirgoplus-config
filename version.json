@@ -1,9 +1,9 @@
 {
   "android": {
-    "minBuild": 1,
-    "latestBuild": 1,
+    "minBuild": 21,
+    "latestBuild": 21,
     "force": false,
-    "message": "Update KasirGo v2.2.6 tersedia 🚀\n\n1. Perbaikan stabilitas stok: mengurangi kasus stok berubah-ubah saat penggunaan harian.\n\n⚠️ Pastikan data sudah dibackup atau disinkronkan sebelum melakukan update. Setelah update selesai, Jika ditemukan data yang hilang atau bermasalah, segera hubungi admin melalui WhatsApp di +62859106610011.",
+    "message": "Update KasirGo+ v1.0.4 tersedia 🚀\n\n1. POS: urutkan katalog produk (Terbaru, A-Z, Z-A) dengan prioritas tetap utama.\n2. Produk: fallback inisial 2 huruf otomatis saat foto tidak tersedia atau gagal dimuat.\n\nSetelah update selesai, Jika ditemukan data yang hilang atau bermasalah, segera hubungi admin melalui WhatsApp di +62859106610011.",
     "features": {
       "ads": {
         "enabled": false
