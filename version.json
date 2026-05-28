@@ -9,7 +9,7 @@
         "enabled": false
       },
       "feedbackProgram": {
-        "enabled": true,
+        "enabled": false,
         "waAdmin": "62859106610011",
         "title": "Program Feedback",
         "subtitle": "Bonus 1 bulan Pro untuk early users",
