@@ -1,9 +1,9 @@
 {
   "android": {
-    "minBuild": 2,
-    "latestBuild": 2,
+    "minBuild": 30,
+    "latestBuild": 30,
     "force": false,
-    "message": "Update KasirGo+ v1.0.4 tersedia 🚀\n\n1. POS: urutkan katalog produk (Terbaru, A-Z, Z-A) dengan prioritas tetap utama.\n2. Produk: fallback inisial 2 huruf otomatis saat foto tidak tersedia atau gagal dimuat.\n\nSetelah update selesai, Jika ditemukan data yang hilang atau bermasalah, segera hubungi admin melalui WhatsApp di +62859106610011.",
+    "message": "Update KasirGo+ v1.0.9 tersedia 🚀\n\n1.  Struk: tambah fitur download struk PNG.\n2. Struk: kirim struk teks ke WhatsApp pelanggan (input nomor WhatsApp). \n3. Pengaturan: tambah Sinkronisasi Status untuk cek status sinkronisasi (Connected, Has Synced, Last Synced, dll).\n\nSetelah update selesai, Jika ditemukan data yang hilang atau bermasalah, segera hubungi admin melalui WhatsApp di +62859106610011.",
     "features": {
       "ads": {
         "enabled": false
