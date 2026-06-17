@@ -1,9 +1,9 @@
 {
   "android": {
-    "minBuild": 30,
-    "latestBuild": 30,
+    "minBuild": 34,
+    "latestBuild": 34,
     "force": false,
-    "message": "Update KasirGo+ v1.0.9 tersedia 🚀\n\n1.  Struk: tambah fitur download struk PNG.\n2. Struk: kirim struk teks ke WhatsApp pelanggan (input nomor WhatsApp). \n3. Pengaturan: tambah Sinkronisasi Status untuk cek status sinkronisasi (Connected, Has Synced, Last Synced, dll).\n\nSetelah update selesai, Jika ditemukan data yang hilang atau bermasalah, segera hubungi admin melalui WhatsApp di +62859106610011.",
+    "message": "Update KasirGo+ v1.0.9 tersedia 🚀\n\n1.  Laporan: perbaikan total transaksi yang sebelumnya bisa terbatas maksimal 200 pada periode tertentu.\n\nSetelah update selesai, Jika ditemukan data yang hilang atau bermasalah, segera hubungi admin melalui WhatsApp di +62859106610011.",
     "features": {
       "ads": {
         "enabled": false
