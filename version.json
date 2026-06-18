@@ -1,9 +1,9 @@
 {
   "android": {
-    "minBuild": 34,
-    "latestBuild": 34,
+    "minBuild": 35,
+    "latestBuild": 35,
     "force": false,
-    "message": "Update KasirGo+ v1.2.1 tersedia 🚀\n\n1.  Laporan: perbaikan total transaksi yang sebelumnya bisa terbatas maksimal 200 pada periode tertentu.\n\nSetelah update selesai, Jika ditemukan data yang hilang atau bermasalah, segera hubungi admin melalui WhatsApp di +62859106610011.",
+    "message": "Update KasirGo+ v1.2.2 tersedia 🚀\n\n1. Produk: perbaikan kategori yang diedit agar produk pada kategori tersebut tidak hilang dari daftar.\n2. Transaksi: perbaikan sinkronisasi transaksi dihapus agar dapat terbaca di lintas device.\n\nSetelah update selesai, Jika ditemukan data yang hilang atau bermasalah, segera hubungi admin melalui WhatsApp di +62859106610011.",
     "features": {
       "ads": {
         "enabled": false
