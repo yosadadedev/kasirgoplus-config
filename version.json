@@ -1,7 +1,7 @@
 {
   "android": {
-    "minBuild": 35,
-    "latestBuild": 35,
+    "minBuild": 36,
+    "latestBuild": 36,
     "force": false,
     "message": "Update KasirGo+ v1.2.3 tersedia 🚀\n\n1.Laporan: perbaikan overview agar total penjualan, rata-rata transaksi, dan total keuntungan menghitung seluruh transaksi sesuai periode.\n\nSetelah update selesai, Jika ditemukan data yang hilang atau bermasalah, segera hubungi admin melalui WhatsApp di +62859106610011.",
     "features": {
