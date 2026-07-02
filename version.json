@@ -1,9 +1,9 @@
 {
   "android": {
-    "minBuild": 37,
-    "latestBuild": 37,
+    "minBuild": 40,
+    "latestBuild": 40,
     "force": false,
-    "message": "Update KasirGo+ v1.2.4 tersedia 🚀\n\n1.Android: perbaikan issue ambil gambar dari galeri pada perangkat Android 12 ke bawah.\n2.Laporan: perbaikan filter transaksi agar data untuk Bulan Lalu, Tahun Ini, dan periode lainnya tampil lebih optimal.\n\nSetelah update selesai, Jika ditemukan data yang hilang atau bermasalah, segera hubungi admin melalui WhatsApp di +62859106610011.",
+    "message": "Update KasirGo+ v1.3.1 tersedia 🚀\n\n1.Android: perbaikan issue ambil gambar dari galeri pada perangkat Android 12 ke bawah.\n2.Laporan: tambah fitur print laporan penjualan langsung ke printer thermal.\n3.  Checkout: tambah metode pembayaran baru seperti GoBiz, Shopee, Grab, dan Lainnya.\n\nSetelah update selesai, Jika ditemukan data yang hilang atau bermasalah, segera hubungi admin melalui WhatsApp di +62859106610011.",
     "features": {
       "ads": {
         "enabled": false
