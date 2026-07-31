@@ -1,9 +1,9 @@
 {
   "android": {
-    "minBuild": 47,
-    "latestBuild": 47,
+    "minBuild": 49,
+    "latestBuild": 49,
     "force": false,
-    "message": "Update KasirGo+ v1.3.6 tersedia 🚀\n\n1.Foto Produk: pengalaman kelola foto kini jauh lebih mulus. Foto produk lebih konsisten tampil di berbagai halaman, lebih mudah diganti, dan tetap aman tersimpan meski koneksi sedang kurang stabil.\n2. Sinkronisasi Real-time: performa realtime ditingkatkan agar perubahan data terasa lebih cepat, lebih stabil, dan lebih responsif saat dipakai di banyak aktivitas operasional sekaligus.\n\nSetelah update selesai, Jika ditemukan data yang hilang atau bermasalah, segera hubungi admin melalui WhatsApp di +62859106610011.",
+    "message": "Update KasirGo+ v1.3.9 tersedia 🚀\n\n1 Laporan: perbaikan perhitungan keuntungan kotor dan keuntungan bersih agar lebih akurat.\n2. Laporan: tambah card Total Modal (seluruh item) dan Modal Terjual (produk dengan data modal) di ringkasan laporan.\n\nSetelah update selesai, Jika ditemukan data yang hilang atau bermasalah, segera hubungi admin melalui WhatsApp di +62859106610011.",
     "features": {
       "ads": {
         "enabled": false
