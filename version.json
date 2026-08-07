@@ -1,9 +1,9 @@
 {
   "android": {
-    "minBuild": 51,
-    "latestBuild": 51,
+    "minBuild": 54,
+    "latestBuild": 54,
     "force": false,
-    "message": "Update KasirGo+ v1.3.10 tersedia 🚀\n\n1 Laporan & Transaksi: owner sekarang bisa memfilter data berdasarkan admin atau kasir tertentu, sehingga peninjauan performa per user jadi lebih mudah.\n2. Laporan & Transaksi: visibilitas data diperketat agar admin dan kasir hanya melihat transaksi miliknya sendiri, sementara owner tetap bisa melihat semua atau memfilter per user.\n3. POS Gramasi: perbaikan input qty untuk produk satuan kg/g/ml agar nilai pecahan seperti 0.1, 0.2, 0.3, dan 0.4 bisa diproses dengan benar.\n\nSetelah update selesai, Jika ditemukan data yang hilang atau bermasalah, segera hubungi admin melalui WhatsApp di +62859106610011.",
+    "message": "Update KasirGo+ v1.3.12 tersedia 🚀\n\n1. Optimasi proses sinkronisasi data agar lebih cepat, lebih ringan, dan lebih stabil di semua perangkat.n\nSetelah update selesai, jika ditemukan kendala segera hubungi admin melalui WhatsApp di +62859106610011.",
     "features": {
       "ads": {
         "enabled": false
