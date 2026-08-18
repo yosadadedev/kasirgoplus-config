@@ -1,9 +1,9 @@
 {
   "android": {
-    "minBuild": 59,
-    "latestBuild": 59,
+    "minBuild": 62,
+    "latestBuild": 62,
     "force": false,
-    "message": "Update KasirGo+ v1.3.16 tersedia 🚀\n\n1. Sinkronisasi Data: peningkatan stabilitas koneksi sinkronisasi.\n\n2.Laporan: sekarang untuk semua role (owner, admin, kasir) saat buka laporan defaultnya melihat SEMUA transaksi semua user, bisa difilter per orang jika dibutuhkan.\n\n Setelah update selesai, jika ditemukan kendala segera hubungi admin melalui WhatsApp di +62859106610011.",
+    "message": "Update KasirGo+ v1.3.19 tersedia 🚀\n\n1. Perbaikan fitur edit transaksi.\n\n2.Laporan: laporan lebih akurat, termasuk transaksi lokal yang belum tersinkron.\n\n Setelah update selesai, jika ditemukan kendala segera hubungi admin melalui WhatsApp di +62859106610011.",
     "features": {
       "ads": {
         "enabled": false
