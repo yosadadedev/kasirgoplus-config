@@ -1,9 +1,9 @@
 {
   "android": {
-    "minBuild": 68,
-    "latestBuild": 68,
+    "minBuild": 73,
+    "latestBuild": 73,
     "force": false,
-    "message": "Update KasirGo+ v1.5.1 tersedia 🚀\n\n1. Perbaikan Sinkronisasi: perbaikan agar data yang bentrok/duplikat (termasuk nomor telepon pelanggan & barcode produk) tidak lagi membuat proses sinkronisasi macet.\n\n Setelah update selesai, jika ditemukan kendala segera hubungi admin melalui WhatsApp di +62859106610011.",
+    "message": "Update KasirGo+ v1.5.6 tersedia 🚀\n\n1. Kelola Laporan: tab Laporan kini otomatis disembunyikan untuk kasir/admin yang tidak memiliki izin 'Lihat Laporan'.\n\n2. Kelola QRIS: hak akses 'Kelola QRIS' kini konsisten—kasir/admin tanpa izin ini tidak bisa mengatur QRIS.\n\n Setelah update selesai, jika ditemukan kendala segera hubungi admin melalui WhatsApp di +62859106610011.",
     "features": {
       "ads": {
         "enabled": false
