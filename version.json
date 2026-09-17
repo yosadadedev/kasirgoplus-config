@@ -4,6 +4,7 @@
     "latestBuild": 73,
     "force": false,
     "message": "Update KasirGo+ v1.5.6 tersedia 🚀\n\n1. Kelola Laporan: tab Laporan kini otomatis disembunyikan untuk kasir/admin yang tidak memiliki izin 'Lihat Laporan'.\n\n2. Kelola QRIS: hak akses 'Kelola QRIS' kini konsisten—kasir/admin tanpa izin ini tidak bisa mengatur QRIS.\n\n Setelah update selesai, jika ditemukan kendala segera hubungi admin melalui WhatsApp di +62859106610011.",
+    "videoUrl": "https://youtube.com/shorts/rvcdg9MFzCI?si=WtU2_dQFNCxXAcHS",
     "features": {
       "ads": {
         "enabled": false
