@@ -1,9 +1,9 @@
 {
   "android": {
-    "minBuild": 73,
-    "latestBuild": 73,
+    "minBuild": 74,
+    "latestBuild": 74,
     "force": false,
-    "message": "Update KasirGo+ v1.5.6 tersedia 🚀\n\n1. Kelola Laporan: tab Laporan kini otomatis disembunyikan untuk kasir/admin yang tidak memiliki izin 'Lihat Laporan'.\n\n2. Kelola QRIS: hak akses 'Kelola QRIS' kini konsisten—kasir/admin tanpa izin ini tidak bisa mengatur QRIS.\n\n Setelah update selesai, jika ditemukan kendala segera hubungi admin melalui WhatsApp di +62859106610011.",
+    "message": "Update KasirGo+ v1.6.0 tersedia 🚀\n\n1. Catat Pemasukan & Pengeluaran Lebih Rapi di Tab 'Kas'! Tab Pengeluaran kini menjadi tab Kas dengan 2 bagian: Pemasukan dan Pengeluaran, jadi modal awal, pinjaman, atau pemasukan lain di luar hasil jualan.\n\n Setelah update selesai, jika ada kendala, saran, atau hal lain yang ingin disampaikan, jangan ragu untuk menghubungi admin via WhatsApp di +62859106610011.",
     "videoUrl": "https://youtube.com/shorts/rvcdg9MFzCI?si=WtU2_dQFNCxXAcHS",
     "features": {
       "ads": {
