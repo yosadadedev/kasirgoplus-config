@@ -1,10 +1,10 @@
 {
   "android": {
-    "minBuild": 75,
-    "latestBuild": 75,
+    "minBuild": 79,
+    "latestBuild": 79,
     "force": false,
-    "message": "Update KasirGo+ v1.8.0 tersedia 🚀\n\n1. Item Manual: Kini bisa tambah item manual dengan cepat langsung dari menu Kasir tanpa perlu membuat produk dulu—cocok untuk ongkir, biaya bungkus, dan lainnya.\n\n2. Scan: perbaikan alat scan barcode 2D/nirkabel (Bluetooth & 2.4G).\n\n Setelah update selesai, jika ada kendala, saran, atau hal lain yang ingin disampaikan, jangan ragu untuk menghubungi admin via WhatsApp di +62859106610011.",
-    "videoUrl": "https://youtube.com/shorts/30MPLI2RJq4?si=tPFaOFIDWw62DIqO",
+    "message": "Update KasirGo+ v1.9.0 tersedia 🚀\n\n1. Kelola Kasbon: Menu baru untuk memantau semua kasbon yang belum lunas. Buka di Pengaturan > Kelola > Kelola Piutang.\n\n2. Laporan: Data modal dan keuntungan (Total Modal, Modal Terjual, Laba Bersih, serta modal & untung per item) kini hanya bisa dilihat oleh Owner.\n\n Setelah update selesai, jika ada kendala, saran, atau hal lain yang ingin disampaikan, jangan ragu untuk menghubungi admin via WhatsApp di +62859106610011.",
+    "videoUrl": "https://youtube.com/shorts/wD7avsHCq2A?si=q-SLOuKHTxwGxhAS",
     "features": {
       "ads": {
         "enabled": false
