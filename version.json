@@ -1,10 +1,10 @@
 {
   "android": {
-    "minBuild": 81,
-    "latestBuild": 81,
+    "minBuild": 82,
+    "latestBuild": 82,
     "force": false,
-    "message": "Update KasirGo+ v1.9.2 tersedia 🚀\n\n1. Langganan: perbaikan menu Langganan—status Pro kini langsung diperbarui dari server saat menu dibuka.\n\n2. Catatan: tab 'Kas' kini bernama 'Catatan' agar tidak disangka saldo kas, dilengkapi tombol info di Pengeluaran dan Pemasukan untuk menjelaskan fungsinya.\n\n Setelah update selesai, jika ada kendala, saran, atau hal lain yang ingin disampaikan, jangan ragu untuk menghubungi admin via WhatsApp di +62859106610011.",
-    "videoUrl": "https://youtube.com/shorts/wD7avsHCq2A?si=q-SLOuKHTxwGxhAS",
+    "message": "Update KasirGo+ v1.9.3 tersedia 🚀\n\n1. Perbaikan Sesi Login: meminimalkan aplikasi logout sendiri, terutama saat sinyal tidak stabil.\n\n Setelah update selesai, jika ada kendala, saran, atau hal lain yang ingin disampaikan, jangan ragu untuk menghubungi admin via WhatsApp di +62859106610011.",
+    "videoUrl": "",
     "features": {
       "ads": {
         "enabled": false
