@@ -1,9 +1,9 @@
 {
   "android": {
-    "minBuild": 79,
-    "latestBuild": 79,
+    "minBuild": 81,
+    "latestBuild": 81,
     "force": false,
-    "message": "Update KasirGo+ v1.9.0 tersedia 🚀\n\n1. Kelola Kasbon: Menu baru untuk memantau semua kasbon yang belum lunas. Buka di Pengaturan > Kelola > Kelola Piutang.\n\n2. Laporan: Data modal dan keuntungan (Total Modal, Modal Terjual, Laba Bersih, serta modal & untung per item) kini hanya bisa dilihat oleh Owner.\n\n Setelah update selesai, jika ada kendala, saran, atau hal lain yang ingin disampaikan, jangan ragu untuk menghubungi admin via WhatsApp di +62859106610011.",
+    "message": "Update KasirGo+ v1.9.2 tersedia 🚀\n\n1. Langganan: perbaikan menu Langganan—status Pro kini langsung diperbarui dari server saat menu dibuka.\n\n2. Catatan: tab 'Kas' kini bernama 'Catatan' agar tidak disangka saldo kas, dilengkapi tombol info di Pengeluaran dan Pemasukan untuk menjelaskan fungsinya.\n\n Setelah update selesai, jika ada kendala, saran, atau hal lain yang ingin disampaikan, jangan ragu untuk menghubungi admin via WhatsApp di +62859106610011.",
     "videoUrl": "https://youtube.com/shorts/wD7avsHCq2A?si=q-SLOuKHTxwGxhAS",
     "features": {
       "ads": {
