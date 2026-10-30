@@ -1,9 +1,9 @@
 {
   "android": {
-    "minBuild": 82,
-    "latestBuild": 82,
+    "minBuild": 88,
+    "latestBuild": 88,
     "force": false,
-    "message": "Update KasirGo+ v1.9.3 tersedia 🚀\n\n1. Perbaikan Sesi Login: meminimalkan aplikasi logout sendiri, terutama saat sinyal tidak stabil.\n\n Setelah update selesai, jika ada kendala, saran, atau hal lain yang ingin disampaikan, jangan ragu untuk menghubungi admin via WhatsApp di +62859106610011.",
+    "message": "Update KasirGo+ v1.9.7 tersedia 🚀\n\n1. Pengaturan Baru 'Jarak Akhir Struk' di Kelola Printer: atur panjang kertas kosong setelah baris terakhir (0–5 baris, default 2) agar pas dengan printer kamu.\n\n Setelah update selesai, jika ada kendala, saran, atau hal lain yang ingin disampaikan, jangan ragu untuk menghubungi admin via WhatsApp di +62859106610011.",
     "videoUrl": "",
     "features": {
       "ads": {
