@@ -1,10 +1,10 @@
 {
   "android": {
-    "minBuild": 88,
-    "latestBuild": 88,
+    "minBuild": 94,
+    "latestBuild": 94,
     "force": false,
-    "message": "Update KasirGo+ v1.9.7 tersedia 🚀\n\n1. Pengaturan Baru 'Jarak Akhir Struk' di Kelola Printer: atur panjang kertas kosong setelah baris terakhir (0–5 baris, default 2) agar pas dengan printer kamu.\n\n Setelah update selesai, jika ada kendala, saran, atau hal lain yang ingin disampaikan, jangan ragu untuk menghubungi admin via WhatsApp di +62859106610011.",
-    "videoUrl": "",
+    "message": "Update KasirGo+ v1.11.0 tersedia 🚀\n\n1. Fitur Baru Shift Kasir: buka dan tutup shift untuk mencocokkan uang di laci. Ada di menu Pengaturan > Kelola > Shift Kasir.\n2.  Cetak Struk: huruf Jepang, Cina, Korea, dan emoji kini bisa dicetak di printer Bluetooth (sebelumnya muncul simbol aneh).\n3. Draft Transaksi (open bill): daftar draft kini bisa di-scroll saat jumlahnya banyak.\n\n Setelah update selesai, jika ada kendala, saran, atau hal lain yang ingin disampaikan, jangan ragu untuk menghubungi admin via WhatsApp di +62859106610011.",
+    "videoUrl": "https://youtu.be/H5W0C8hCfUg",
     "features": {
       "ads": {
         "enabled": false
