@@ -1,9 +1,9 @@
 {
   "android": {
     "minBuild": 94,
-    "latestBuild": 94,
+    "latestBuild": 95,
     "force": false,
-    "message": "Update KasirGo+ v1.11.0 tersedia 🚀\n\n1. Fitur Baru Shift Kasir: buka dan tutup shift untuk mencocokkan uang di laci. Ada di menu Pengaturan > Kelola > Shift Kasir.\n2.  Cetak Struk: huruf Jepang, Cina, Korea, dan emoji kini bisa dicetak di printer Bluetooth (sebelumnya muncul simbol aneh).\n3. Draft Transaksi (open bill): daftar draft kini bisa di-scroll saat jumlahnya banyak.\n\n Setelah update selesai, jika ada kendala, saran, atau hal lain yang ingin disampaikan, jangan ragu untuk menghubungi admin via WhatsApp di +62859106610011.",
+    "message": "Update KasirGo+ v1.11.1 tersedia 🚀\n\n1. Fitur Baru Cetak Struk Otomatis: struk langsung tercetak saat transaksi selesai, tanpa menekan tombol Cetak Struk. Aktifkan di Pengaturan > Kelola Printer.\n\nSetelah update selesai, jika ada kendala, saran, atau hal lain yang ingin disampaikan, jangan ragu untuk menghubungi admin via WhatsApp di +62859106610011.",
     "videoUrl": "https://youtube.com/shorts/dQmqCAac2u0",
     "features": {
       "ads": {
@@ -15,17 +15,34 @@
         "title": "Program Feedback",
         "subtitle": "Bonus 1 bulan Pro untuk early users",
         "description": "Dengan cara dukung KasirGo+ dengan review terbaik di Google Play dan tulis feedback yang membantu. Kirim screenshot review + Email atau ID langganan ke WhatsApp admin untuk aktivasi bonus 1 Bulan Pro."
-      }
-    },
-    "promotions": {
-      "enabled": true,
-      "pos": {
-        "modal": {
-          "enabled": false,
-          "imageUrl": "",
-          "linkUrl": "",
-          "dismissCooldownDays": 7
+      },
+      "promotions": {
+        "enabled": true,
+        "pos": {
+          "modal": {
+            "enabled": false,
+            "imageUrl": "",
+            "linkUrl": "",
+            "dismissCooldownDays": 7
+          }
         }
+      }
+    }
+  },
+  "ios": {
+    "minBuild": 1,
+    "latestBuild": 92,
+    "force": false,
+    "message": "Update KasirGo+ v1.11.1 tersedia 🚀\n\n1. Fitur Baru Cetak Struk Otomatis: struk langsung tercetak saat transaksi selesai, tanpa menekan tombol Cetak Struk. Aktifkan di Pengaturan > Kelola Printer.\n\nSilakan update lewat App Store. Jika ada kendala, saran, atau hal lain yang ingin disampaikan, jangan ragu untuk menghubungi admin via WhatsApp di +62859106610011.",
+    "features": {
+      "ads": {
+        "enabled": false
+      },
+      "feedbackProgram": {
+        "enabled": false
+      },
+      "promotions": {
+        "enabled": false
       }
     }
   }
